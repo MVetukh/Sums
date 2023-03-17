@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\ШавловРГ\Срабионян Задания\ExSum\ExSum\bin\Debug\ExSum.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ШавловРГ\Срабионян Задания\ExSum\ExSum\bin\Debug\ExSum.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ШавловРГ\Срабионян Задания\ExSum\ExSum\bin\Debug\ExSum.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ШавловРГ\Срабионян Задания\ExSum\ExSum\obj\Debug\ExSum.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\ШавловРГ\Срабионян Задания\ExSum\ExSum\obj\Debug\ExSum.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ШавловРГ\Срабионян Задания\ExSum\ExSum\obj\Debug\ExSum.pdb
